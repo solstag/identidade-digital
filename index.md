@@ -4,23 +4,23 @@ O Governo vem discutindo uma forma de implementar a identificação digital no B
 
 Entendemos que a sociedade é parte fundamental na discussão e portanto lançamos o “Manifesto para a proteção da identificação digital no Brasil”. Este manifesto é um convite para que cidadãos, organizações da sociedade civil e empresas subscrevam estes princípios, orientando o uso de tecnologias para identificação digital na sociedade brasileira.
 
-Para se falar de identificaço digital,  preciso expr os interesses por trs desse movimento, as necessidades que ela prope suprir, as evidências ou falta de evidências que as supriria, os efeitos negativos e críticas, assim como as alternativas que podem ser preferíveis. Finalmente, é providencial refletir sobre seu contexto político e histórico - da identificaço de escravos no egito antigo à numeraço de judeus durante a alemanha nazista.
+Para se falar de identificação digital, é preciso expôr os interesses por trás desse movimento, as necessidades que ela propõe suprir, as evidências ou falta de evidências de que supriria, os efeitos negativos e críticas, assim como as alternativas que podem ser preferíveis. Finalmente, é providencial refletir sobre seu contexto político e histórico - da identificaço de escravos no egito antigo à numeraço de judeus durante a alemanha nazista, aos interesses do sistema bancário em socializar seus riscos em detrimento de direitos fundamentais dos indivíduos.
 
 ## Interesses e argumentos pela identificaço digital
 
  * blablabla bancos
  * blablabla governo estadunidense
- * blablabla donald trump e supremacistas cristãos racistas no controle da NSA e CIA, super momento para implantar identificação digital no "quintal deles"! obviamente com as melhores intenções... "ordem e progresso"!
+ * blablabla donald trump e supremacistas cristãos racistas no controle da NSA e CIA, super momento para implantar identificação digital no "quintal deles"! obviamente com as melhores intenções... "ordem e progresso".
  
 ## Crítica e história da identificação
 
  * o surgimento da identificação 'digital' - i.e. do alfabeto escrito - ligado ao controle dos escravos no egito antigo
- * o surgimento da identificação digital - i.e. do registro computadorizado - ligado ao controle de judeus na alemanha nazista
+ * o surgimento da identificação digital - i.e. do registro computadorizado - ligado ao controle de judeus e outras minorias na alemanha nazista
  * projetos de lei que interagem maravilhas com identificação digital, por exemplo a identificaço compulsória para acesso à internet
  
 ### O que está em jogo?
 
- * autonomia - j na etimologia ligado ao 'controle do próprio nome'
+ * autonomia - já na etimologia ligado ao 'controle do próprio nome'
  * liberdade - terra, cercas, fronteiras, muros e portas de acesso
  * privaciadade - o óbvio ululante
  
@@ -33,12 +33,12 @@ Para se falar de identificaço digital,  preciso expr os interesses por trs dess
  
 ## Princípios para uma identificação digital incontornável ou imposta
 
-Tratar de identificação digital, em todo caso, também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital, caso incontornáveis, devem garantir que  os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
+Tratar de identificação digital, em todo caso, também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital, caso incontornáveis, devem garantir que os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
 
 São eles:
   
   * ### OPCIONAL 
-  A identificação digital deve ser opcional, entendido como um direito do cidadão no fazer parte de um tal cadastro, cabendo ao governo e a qualquer parte prover alternativas que permitam, sem custos impostos, que o cidadão tenha a identificação provida por outro meio.
+  A identificação digital deve ser opcional, entendido como um direito do cidadão não fazer parte de um tal cadastro, cabendo ao governo e a qualquer parte prover alternativas que permitam, sem custos impostos, que o cidadão tenha a identificação provida por outro meio.
 
   * ### TRANSPARÊNCIA 
   O cidadão deve saber quem teve acesso a quais dos seus dados e para qual finalidade, de maneira simples, clara e sem custos.
