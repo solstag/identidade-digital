@@ -4,10 +4,36 @@ O Governo vem discutindo uma forma de implementar a identificação digital no B
 
 Entendemos que a sociedade é parte fundamental na discussão e portanto lançamos o “Manifesto para a proteção da identificação digital no Brasil”. Este manifesto é um convite para que cidadãos, organizações da sociedade civil e empresas subscrevam estes princípios, orientando o uso de tecnologias para identificação digital na sociedade brasileira.
 
+Para se falar de identificaço digital,  preciso expr os interesses por trs desse movimento, as necessidades que ela prope suprir, as evidências ou falta de evidências que as supriria, os efeitos negativos e críticas, assim como as alternativas que podem ser preferíveis. Finalmente, é providencial refletir sobre seu contexto político e histórico - da identificaço de escravos no egito antigo à numeraço de judeus durante a alemanha nazista.
 
-Tratar de identificação digital também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital devem garantir que  os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
+## Interesses e argumentos pela identificaço digital
+
+ * blablabla bancos
+ * blablabla governo estadunidense
+ * blablabla donald trump e supremacistas cristãos racistas no controle da NSA e CIA, super momento para implantar identificação digital no "quintal deles"! obviamente com as melhores intenções... "ordem e progresso"!
+ 
+## Crítica e história da identificação
+
+ * o surgimento da identificação 'digital' - i.e. do alfabeto escrito - ligado ao controle dos escravos no egito antigo
+ * o surgimento da identificação digital - i.e. do registro computadorizado - ligado ao controle de judeus na alemanha nazista
+ * NSA, CIA, 
+
+### O que está em jogo?
+
+ * autonomia - j na etimologia ligado ao 'controle do próprio nome'
+ * liberdade - terra, cercas, fronteiras, muros e portas de acesso
+ * privaciadade -
+
+ 
+## Alternativas à identificaço digital
+
+
+Tratar de identificação digital, em todo caso, também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital, caso incontornáveis, devem garantir que  os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
 
 São eles:
+  
+  * ### OPCIONAL 
+  A identificação digital deve ser opcional, entendido como um direito do cidadão no fazer parte de um tal cadastro, cabendo ao governo e a qualquer parte prover alternativas que permitam, sem custos impostos, que o cidadão tenha a identificação provida por outro meio.
 
   * ### TRANSPARÊNCIA 
   O cidadão deve saber quem teve acesso a quais dos seus dados e para qual finalidade, de maneira simples, clara e sem custos.
@@ -35,9 +61,6 @@ São eles:
 
   * ### FATOR MÚLTIPLO 
   O governo deve fornecer estrutura para oferecer acesso de forma simples e facilitado para diferentes fatores de autenticação, que possam ser realizados por provedores de identidade distintos.
-  
-  * ### OPCIONAL 
-  A identificação digital deve ser opcional, desde que o cidadão tenha a identificação provida por outro meio.
 
   * ### INTEGRAÇÃO 
   A identidade digital pode ser integrada aos demais registros
