@@ -1,4 +1,4 @@
-# Manifesto para Identificação Digital no Brasil
+   # Manifesto para Identificação Digital no Brasil
 
 O Governo vem discutindo uma forma de implementar a identificação digital no Brasil e também como vai integrar, ou se deve integrar, o uso de tecnologias como a biometria, praticada pelo TSE, na identificação do cidadão no meio digital.
 
@@ -27,6 +27,12 @@ Para se falar de identificaço digital,  preciso expr os interesses por trs dess
  
 ## Alternativas à identificaço digital
 
+ * respeito? educação? distribuição da riqueza? cultura de paz?
+ * identificação efêmera ou "on demand"
+ * identificação autogestionária
+ * etc...
+ 
+## Princípios para uma identificação digital incontornável ou imposta
 
 Tratar de identificação digital, em todo caso, também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital, caso incontornáveis, devem garantir que  os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
 
