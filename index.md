@@ -10,13 +10,15 @@ Para se falar de identificação digital, é preciso expôr os interesses por tr
 
  * blablabla bancos
  * blablabla governo estadunidense
- * blablabla donald trump e supremacistas cristãos racistas no controle da NSA e CIA, super momento para implantar identificação digital no "quintal deles"! obviamente com as melhores intenções... "ordem e progresso".
+ * blablabla (neoliberalismo e) new public management
  
 ## Crítica e história da identificação
 
  * o surgimento da identificação 'digital' - i.e. do alfabeto escrito - ligado ao controle dos escravos no egito antigo
  * o surgimento da identificação digital - i.e. do registro computadorizado - ligado ao controle de judeus e outras minorias na alemanha nazista
  * projetos de lei que interagem maravilhas com identificação digital, por exemplo a identificaço compulsória para acesso à internet
+ * donald trump e supremacistas cristãos racistas no controle da NSA e CIA, super momento para implantar identificação digital no "quintal deles"! obviamente com as melhores intenções... "ordem e progresso".
+ * dentre as inúmeras conotações possíveis da junção das palavras identificação e digital, a que se tornou sentido comum é precisamente a que melhor serve à opção implícita de um controle exercido de forma centralizada por uma classe privilegiada.
  
 ### O que está em jogo?
 
