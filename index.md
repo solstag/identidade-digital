@@ -16,14 +16,13 @@ Para se falar de identificaço digital,  preciso expr os interesses por trs dess
 
  * o surgimento da identificação 'digital' - i.e. do alfabeto escrito - ligado ao controle dos escravos no egito antigo
  * o surgimento da identificação digital - i.e. do registro computadorizado - ligado ao controle de judeus na alemanha nazista
- * NSA, CIA, 
-
+ * projetos de lei que interagem maravilhas com identificação digital, por exemplo a identificaço compulsória para acesso à internet
+ 
 ### O que está em jogo?
 
  * autonomia - j na etimologia ligado ao 'controle do próprio nome'
  * liberdade - terra, cercas, fronteiras, muros e portas de acesso
- * privaciadade -
-
+ * privaciadade - o óbvio ululante
  
 ## Alternativas à identificaço digital
 
